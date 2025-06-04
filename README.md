@@ -37,7 +37,7 @@
 <br />
  <code>  <img   width="60"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"> </code>
  <code>  <img   width="60"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"> </code>
- <code>  <img   width="60"src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg""> </code>
+
 
 <br />
 </div>
@@ -49,7 +49,7 @@
  <code>  <img  src=""> </code>
  <code>  <img  src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"> </code>
  <code>  <img  src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"> </code>
- <code>  <img  src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"> </code>
+ <code>  <img  src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"> </code>
 <br />
 </div>
 
@@ -72,7 +72,7 @@
 <div align="center">
  <code><img width="15%" "></code>
  <code><img width="15%" ></code>
- <code><img width="15%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+ <code><img width="15%" ></code>
 </div>
 
 <h3 align="center">A passionate frontend developer from India</h3>
