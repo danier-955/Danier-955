@@ -35,10 +35,10 @@
 #  Gestores Base de datos
 <div align="center">
 <br />
- <code>  <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"> </code>
- <code>  <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"> </code>
- <code>  <img  src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg""> </code>
- <code>  <img  src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"> </code>
+ <code>  <img   width="60"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"> </code>
+ <code>  <img   width="60"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"> </code>
+ <code>  <img   width="60"src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg""> </code>
+
 <br />
 </div>
 
