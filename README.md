@@ -1,6 +1,6 @@
 # Danier Anderson Perdomo Carmona "DapcSoft"👋
 
-[ProfileBanner](https://drive.google.com/file/d/1kEQ738U1pEHJB3MrzzCgx5ZTnofFN3VY/view?usp=sharing)
+[ProfileBanner](https://dircomfidencial.com/wp-content/uploads/2016/11/logo-1330779_960_720.png)
 # Tecnologias
 <div align="center">
 <br />
