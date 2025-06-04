@@ -3,7 +3,7 @@
 ![](https://github.com/danier-955/DAPC/blob/master/public/img/sin-galeria.jpg)
 
 Tecnologias
-<table>
+<table widgt="100">
   <tbody>
     <tr valign="top">
       <td width="25%" align="center">
