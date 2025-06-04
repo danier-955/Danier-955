@@ -9,7 +9,7 @@
  <code>  <img  width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"> </code>
  <code>  <img  width="60" src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg"> </code>
  <code>  <img  src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"> </code>
-<br />[Uploading README.md…]()# Danier Anderson Perdomo Carmona "DapcSoft"👋
+<br />
 
 # Tecnologias
 <div align="center">
