@@ -22,19 +22,20 @@
  <code> <img width="15%" src="https://www.w3.org/html/"><code>
  <code>  <img width="15%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
  <code> <img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"><code>
-  <code> <img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"><code>
+  <code> <img width="15%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"><code>
 </div>
 
 # Frameworks
 <div align="center">
   <code><img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40""><code>
-  <code><img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40""><code>
+  <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" width="40" height="40""><code>
 
 </div>
 
 # Gestores Base de datos
 <div align="center">
- <code><img width="15%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
+ <code><img width="15%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"></code>
+ <code><img width="15%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"></code>
  <code><img width="15%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
 </div>
 
