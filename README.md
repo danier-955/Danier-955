@@ -13,6 +13,14 @@
 </div>
 
 # lenguajes
+<div align="center">
+<br />
+ <code>  <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"> </code>
+ <code>  <img  src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"> </code>
+ <code>  <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"> </code>
+ <code>  <img  src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"> </code>
+<br />
+</div>
 
 <div align="center">
  <code> <img width="15%" src="https://www.w3.org/html/"><code>
