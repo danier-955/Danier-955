@@ -4,7 +4,7 @@
 
 # Tecnologias
 <div align="center">
- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> <code>
+ 
   <img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"> </code>
  <code>  <img width="15%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"> </code>
  <code>  <img width="15%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"> </code>
@@ -18,6 +18,20 @@
 </div>
 # lenguajes
 <div align="center">
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> <code>
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> <code>
+</div>
+
+# Frameworks
+<div align="center">
+ <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40""> <code>
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> <code>
+</div>
+
+# Gestores Base de datos
+<div align="center">
+ <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40""> <code>
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> <code>
 </div>
 
 <h3 align="center">A passionate frontend developer from India</h3>
