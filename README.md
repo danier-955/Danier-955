@@ -11,8 +11,6 @@
  <code>  <img  src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"> </code>
 <br />[Uploading README.md…]()# Danier Anderson Perdomo Carmona "DapcSoft"👋
 
-[![ProfileBanner](https://github.com/Davekibh/Davekibh/blob/main/Images/Banner%20Image.png)](https://Davekibh.github.io)
-
 # Tecnologias
 <div align="center">
  
