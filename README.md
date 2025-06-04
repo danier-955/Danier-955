@@ -2,8 +2,9 @@
 
 ![](https://github.com/danier-955/DAPC/blob/master/public/img/sin-galeria.jpg)
 
-Tecnologias
+
 <table widgt="100" align="center">
+Tecnologias
   <tbody>
     <tr valign="top" >
       <td width="25%" align="center">
