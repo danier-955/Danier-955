@@ -1,6 +1,6 @@
 # Danier Anderson Perdomo Carmona "DapcSoft"👋
 
-img align="center" alt="Schleidens" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
+<img align="center" alt="Schleidens" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
 # Tecnologias
 <div align="center">
 <br />
