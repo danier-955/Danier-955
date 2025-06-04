@@ -27,7 +27,7 @@
  <code>  <img  src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"> </code>
  <code>  <img  width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"> </code>
  <code>  <img  src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="60" height="60"> </code>
- <code>  <img  src="https://images.icon-icons.com/2699/PNG/512/laravel_logo_icon_170314.png" width="60" height="60""> </code>
+ <code>  <img  src="https://e7.pngegg.com/pngimages/764/304/png-clipart-laravel-black-logo-tech-companies-thumbnail.png" width="60" height="60""> </code>
 <br />
 </div>
 
