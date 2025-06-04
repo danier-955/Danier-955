@@ -5,10 +5,10 @@
 # Tecnologias
 <div align="center">
 <br />
- <code>  <img " src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"> </code>
+ <code>  <img  src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"> </code>
  <code>  <img  src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"> </code>
- <code>  <img width="15%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"> </code>
- <code>  <img width="15%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"> </code>
+ <code>  <img  src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"> </code>
+ <code>  <img  src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"> </code>
 <br />
 </div>
 
