@@ -25,7 +25,7 @@
  <code>  <img  src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"> </code>
  <code>  <img  src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"> </code>
  <code>  <img  width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"> </code>
- <code>  <img  src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"> </code>
+
 <br />
 </div>
 
@@ -33,7 +33,7 @@
 <div align="center">
 <br />
  <code>  <img  src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"> </code>
- <code>  <img  src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.stickpng.com%2Fimg%2Ficons-logos-emojis%2Ftech-companies%2Flaravel-black-logo&psig=AOvVaw2MXw2BnulaNQ-VvY7OLlJa&ust=1749096698746000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOiw3o_z1o0DFQAAAAAdAAAAABAE" width="40" height="40""> </code>
+ <code>  <img  src="https://logospng.org/wp-content/uploads/laravel.png" width="40" height="40""> </code>
 
 
 <br />
