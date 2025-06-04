@@ -28,7 +28,7 @@
  <code>  <img  src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"> </code>
  <code>  <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" width="40" height="40""> </code>
  <code>  <img  src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"> </code>
- <code>  <img  src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"> </code>
+
 <br />
 </div>
 
@@ -37,42 +37,10 @@
 <br />
  <code>  <img   width="60"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"> </code>
  <code>  <img   width="60"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"> </code>
+  <code>  <img  src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"> </code>
 
 
 <br />
-</div>
-
-
-# Frameworks
-<div align="center">
-<br />
- <code>  <img  src=""> </code>
- <code>  <img  src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"> </code>
- <code>  <img  src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"> </code>
- <code>  <img  src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"> </code>
-<br />
-</div>
-
-<div align="center">
-  <code><img ><code>
-  <code><img "><code>
-
-</div>
-
-# Gestores Base de datos
-<div align="center">
-<br />
- <code>  <img  > </code>
- <code>  <img  src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"> </code>
- <code>  <img  src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"> </code>
- <code>  <img  > </code>
-<br />
-</div>
-
-<div align="center">
- <code><img width="15%" "></code>
- <code><img width="15%" ></code>
- <code><img width="15%" ></code>
 </div>
 
 <h3 align="center">A passionate frontend developer from India</h3>
