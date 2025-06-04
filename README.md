@@ -12,15 +12,6 @@
  <code>  <img  src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"> </code>
 <br />
 </div>
-
-# Front End
-<div align="center">
-<br />
-
-<br />
-</div>
-
-# lenguajes
 <div align="center">
 <br />
  <code>  <img  src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"> </code>
@@ -30,16 +21,6 @@
  <code>  <img  src="https://images.icon-icons.com/2699/PNG/512/laravel_logo_icon_170314.png" width="60" height="60""> </code>
 <br />
 </div>
-
-# Frameworks
-<div align="center">
-<br />
- 
-
-
-<br />
-</div>
-
 #  Gestores Base de datos
 <div align="center">
 <br />
