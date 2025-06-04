@@ -17,7 +17,7 @@
 <br />
  <code>  <img  src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"> </code>
  <code>  <img  src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"> </code>
- <code>  <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"> </code>
+ <code>  <img  width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"> </code>
  <code>  <img  src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"> </code>
 <br />
 </div>
