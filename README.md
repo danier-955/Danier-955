@@ -11,32 +11,30 @@
  <code>  <img  src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"> </code>
 <br />
 
- <code>  <img width="15%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"> </code>
- <code>  <img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"> </code>
- <code>  <img width="10%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"> </code>
  <code>  <img width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"> </code>
-
-<br />
-</div>
-
-
-</div>
-<div align="center">
-<br />
- <code>  <img  src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"> </code>
+<code>  <img  src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"> </code>
  <code>  <img  src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"> </code>
  <code>  <img  width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"> </code>
  <code>  <img  src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="60" height="60"> </code>
+<br />
+</div>
+
+
+</div>
+<div align="center">
+<br />
+ 
  <code>  <img  src="https://e7.pngegg.com/pngimages/764/304/png-clipart-laravel-black-logo-tech-companies-thumbnail.png" width="60" height="60""> </code>
+ <code>  <img   width="60"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"> </code>
+ <code>  <img   width="60"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"> </code>
+ <code>  <img  src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"> </code>
+
 <br />
 </div>
 
 <div align="center">
 <br />
- <code>  <img   width="60"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"> </code>
- <code>  <img   width="60"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"> </code>
-  <code>  <img  src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"> </code>
-
+ 
 
 <br />
 </div>
