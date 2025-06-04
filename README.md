@@ -1,32 +1,35 @@
-# Danier Anderson Perdomo Carmona "DapcSoft"👋
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Mi Portafolio</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <img src="img/header.jpg" alt="Imagen de cabecera">
+    <h1>¡Hola! Soy [Tu Nombre]</h1>
+  </header>
 
-![](https://github.com/danier-955/DAPC/blob/master/public/img/sin-galeria.jpg)
+  <section id="quien-soy">
+    <h2>¿Quién soy?</h2>
+    <p>
+      Soy desarrollador con interés en la programación, tecnología e innovación. 
+      Este es un resumen de mi trabajo y mis proyectos personales.
+    </p>
+  </section>
 
-# Tecnologias
-<table widgt="100" align="center">
-  <tbody>
-    <tr valign="top" >
-      <td width="20%" align="center">
-        <span>𝗛𝗧𝗠𝗟𝟱</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
-      </td>
-      <td width="20%" align="center">
-        <span>𝗖𝗦𝗦𝟯</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
-      </td>
-      <td width="20%" align="center">
-        <span>𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
-      </td>
-      <td width="20%" align="center">
-        <span>𝗩𝘂𝗲</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/vue.svg">
-      </td>
-      <td width="20%" align="center">
-        <span>𝗚𝗶𝘁</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
-      </td>
-    </tr>
+  <section id="proyectos">
+    <h2>Proyectos realizados</h2>
+    <ul>
+      <li><strong>Proyecto 1:</strong> <a href="#">App de tareas</a></li>
+      <li><strong>Proyecto 2:</strong> <a href="#">Calculadora ensamblador</a></li>
+      <li><strong>Proyecto 3:</strong> <a href="#">Análisis con Python</a></li>
+    </ul>
+  </section>
+</body>
+</html>
  
  
   </tbody>
