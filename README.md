@@ -15,9 +15,9 @@
 # lenguajes
 <div align="center">
 <br />
- <code>  <img  src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"> </code>
- <code>  <img  src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"> </code>
- <code>  <img  src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"> </code>
+ <code>  <img  src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"> </code>
+ <code>  <img  src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"> </code>
+ <code>  <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"> </code>
  <code>  <img  src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"> </code>
 <br />
 </div>
@@ -42,20 +42,12 @@
 <br />
 </div>
 
-# lenguajes
-<div align="center">
-<br />
- <code>  <img  src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"> </code>
- <code>  <img  src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"> </code>
- <code>  <img  src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"> </code>
- <code>  <img  src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"> </code>
-<br />
-</div>
+
 <div align="center">
  <code> <img width="15%" src="https://www.w3.org/html/"><code>
- <code>  <img width="15%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
- <code> <img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"><code>
-  <code> <img width="15%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"><code>
+ <code>  <img width="15%" src=""></code>
+ <code> <img width="15%" src=""><code>
+  <code> <img width="15%" src=""><code>
 </div>
 
 # Frameworks
