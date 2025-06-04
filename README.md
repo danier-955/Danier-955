@@ -7,6 +7,7 @@
 <br />
  <code>  <img  src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"> </code>
  <code>  <img  src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"> </code>
+ <code>  <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"> </code>
 <br />
 </div>
 
