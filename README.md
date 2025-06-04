@@ -1,7 +1,6 @@
 # Danier Anderson Perdomo Carmona "DapcSoft"👋
 
-[![ProfileBanner](https://drive.google.com/file/d/1kEQ738U1pEHJB3MrzzCgx5ZTnofFN3VY/view.jpg)](https://Davekibh.github.io)
-
+[![ProfileBanner]([https://drive.google.com/file/d/1kEQ738U1pEHJB3MrzzCgx5ZTnofFN3VY/view.jpg](https://drive.google.com/file/d/1kEQ738U1pEHJB3MrzzCgx5ZTnofFN3VY/view?usp=sharing))
 # Tecnologias
 <div align="center">
 <br />
