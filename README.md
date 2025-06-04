@@ -1,6 +1,6 @@
 # Danier Anderson Perdomo Carmona "DapcSoft"👋
 
-[ProfileBanner](https://dircomfidencial.com/wp-content/uploads/2016/11/logo-1330779_960_720.png)
+<img src="https://img.shields.io/badge/nuxt.js-00C58E?style=for-the-badge&logo=nuxt.js&logoColor=white"/> <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 # Tecnologias
 <div align="center">
 <br />
