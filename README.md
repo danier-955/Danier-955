@@ -26,4 +26,5 @@
    <code><img width="15%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
   </code>
 <br />
+</div>
 
