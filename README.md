@@ -12,7 +12,7 @@
 <br />
 </div>
 
-# Tecnologias
+# lenguajes
 <div align="center">
 <br />
  <code>  <img  src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"> </code>
@@ -22,7 +22,7 @@
 <br />
 </div>
 
-# Tecnologias
+# Frameworks
 <div align="center">
 <br />
  <code>  <img  src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"> </code>
@@ -32,7 +32,7 @@
 <br />
 </div>
 
-# Tecnologias
+#  Gestores Base de datos
 <div align="center">
 <br />
  <code>  <img  src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"> </code>
