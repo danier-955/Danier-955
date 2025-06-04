@@ -16,8 +16,8 @@
  <code>  <img width="10%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"> </code>
  <code>  <img width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"> </code>
 
-  <code>  <img width="15%" src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg"> </code>
- <code>  <img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"> </code>
+  <code>  <img width="5%" src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg"> </code>
+ <code>  <img width="15%" src="https://picperf.io/https://laravelnews.s3.amazonaws.com/images/laravel-featured.png"> </code>
  <code>  <img width="10%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"> </code>
  <code>  <img width="5%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"> </code>
 <br />
