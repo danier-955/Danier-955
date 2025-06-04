@@ -21,7 +21,7 @@
  <code>  <img  src="https://images.icon-icons.com/2699/PNG/512/laravel_logo_icon_170314.png" width="60" height="60""> </code>
 <br />
 </div>
-#  Gestores Base de datos
+
 <div align="center">
 <br />
  <code>  <img   width="60"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"> </code>
