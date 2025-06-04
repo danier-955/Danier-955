@@ -33,7 +33,7 @@
 <div align="center">
 <br />
  <code>  <img  src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"> </code>
- <code>  <img  src="[https://logospng.org/wp-content/uploads/laravel.png](https://picperf.io/https://laravelnews.s3.amazonaws.com/images/laravel-featured.png)https://picperf.io/https://laravelnews.s3.amazonaws.com/images/laravel-featured.png" width="40" height="40""> </code>
+ <code>  <img  src="https://images.icon-icons.com/2699/PNG/512/laravel_logo_icon_170314.png" width="40" height="40""> </code>
 
 
 <br />
