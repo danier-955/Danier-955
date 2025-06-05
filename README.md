@@ -19,9 +19,9 @@
  <code>  <img  src="" alt="codeigniter" width="60" height="60"> </code>
  
 <br />
- <code>  <img  width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"> </code>
+ <code>  <img  width="60" src=""> </code>
  <code>  <img   width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"> </code>
- <code>  <img  src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"> </code>
+ <code>  <img  src=""> </code>
   <code> <img  src="https://e7.pngegg.com/pngimages/764/304/png-clipart-laravel-black-logo-tech-companies-thumbnail.png" width="60" height="60"> </code>
 </div>
 
@@ -44,7 +44,8 @@
 <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" style="height: 4rem"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" style="height: 4rem"/>
 <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg](https://skillicons.dev/icons?i=githubactions)" style="height: 4rem; background-color:white"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  style="height: 4rem"/>
+<img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"  style="height: 4rem"/>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"  style="height: 4rem"/>
 </p>
  
 # Proyectos Realizados
