@@ -30,7 +30,42 @@
 <br />
  
 # Proyectos Realizados
-
+<p recentlyplayed, float='left'>
+  <br>
+  <h1>Recently played tracks</h1>
+  <p></p>
+  <table style='width:100%'>
+    <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2739bb453695e0776ceb13576f3' alt='Way Back Home' style='width:50%'>
+      </td>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27382939f80f3052a55a92d4717' alt='Anyone Else But You' style='width:50%'>
+      </td>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2739f5cce8304c42d3a5463fd23' alt='Cold Heart - PNAU Remix' style='width:50%'>
+      </td>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273b3de5764cc02f94714487c86' alt='ily (i love you baby) (feat. Emilee)' style='width:50%'>
+      </td>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2733a376bd9b9b1f4b2686807db' alt='Paradise' style='width:50%'>
+      </td>
+    </tr>
+    <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/3NxuezMdSLgt4OwHzBoUhL'>Way Back Home</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/4IBsj7ouiYgkKhaJnBCTXE'>Anyone Else But You</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/6zSpb8dQRaw0M1dK8PBwQz'>Cold Heart - PNAU Remix</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/62aP9fBQKYKxi7PDXwcUAS'>ily (i love you baby) (feat. Emilee)</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/0Rx0DJI556Ix5gBny6EWmn'>Paradise</a>
+      </td>
+    </tr>
+  </table>
+</p recentlyplayed>
 
 <br />
 </div>
