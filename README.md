@@ -40,8 +40,6 @@
       </td>
       <td><img class='artists' src='https://github.com/danier-955/dapc_portafolio/blob/main/assets/img/portfolio/Benelux/Benelux.PNG' >
       </td>
-     <td><img class='artists' src='https://github.com/danier-955/dapc_portafolio/blob/main/assets/img/portfolio/Benelux/Benelux.PNG' >
-      </td>
      <td><img class='artists' src='https://github.com/danier-955/dapc_portafolio/blob/main/assets/img/portfolio/Dani/imagen4.PNG' >
       </td>
     </tr>
