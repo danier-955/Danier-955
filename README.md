@@ -1,5 +1,5 @@
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-# Danier Anderson Perdomo Carmona "DapcSoft"👋
+
+# Danier Anderson Perdomo Carmona "DapcSoft"
 
 [![ProfileBanner](https://github.com/danier-955/dapc_portafolio/blob/main/assets/img/Portada.PNG)](https://Davekibh.github.io)
 
