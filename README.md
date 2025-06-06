@@ -32,21 +32,21 @@
     <tr align='center'>
       <td><img class='' src='https://github.com/danier-955/dapc_portafolio/blob/main/assets/img/portfolio/sistemaescolar/1.jpg'  >
       </td>
-      <td><img class='artists' src='https://github.com/danier-955/dapc_portafolio/blob/main/assets/img/portfolio/Fotografia/2%20-%20copia.png' alt='Anyone Else But You' style='width:50%'>
+      <td><img class='artists' src='https://github.com/danier-955/dapc_portafolio/blob/main/assets/img/portfolio/Fotografia/2%20-%20copia.png'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2739f5cce8304c42d3a5463fd23' alt='Cold Heart - PNAU Remix' style='width:50%'>
+      <td><img class='artists' src='https://github.com/danier-955/dapc_portafolio/blob/main/assets/img/portfolio/blog/imagen1.png' >
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273b3de5764cc02f94714487c86' alt='ily (i love you baby) (feat. Emilee)' style='width:50%'>
+      <td><img class='artists' src='https://github.com/danier-955/dapc_portafolio/blob/main/assets/img/portfolio/pm_publicidad/publicidad-1.png' >
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2733a376bd9b9b1f4b2686807db' alt='Paradise' style='width:50%'>
+      <td><img class='artists' src='' >
       </td>
     </tr>
     <tr align='center'>
       <td>
-      <a href='https://open.spotify.com/track/3NxuezMdSLgt4OwHzBoUhL'>Way Back Home</a>
+      <a href='https://open.spotify.com/track/3NxuezMdSLgt4OwHzBoUhL'>Sistema Escolar</a>
       </td>
       <td>
-      <a href='https://open.spotify.com/track/4IBsj7ouiYgkKhaJnBCTXE'>Anyone Else But You</a>
+      <a href='https://open.spotify.com/track/4IBsj7ouiYgkKhaJnBCTXE'>Fotografia</a>
       </td>
       <td>
       <a href='https://open.spotify.com/track/6zSpb8dQRaw0M1dK8PBwQz'>Cold Heart - PNAU Remix</a>
