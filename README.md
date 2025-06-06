@@ -30,9 +30,9 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
-      <td><img class='' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2739bb453695e0776ceb13576f3'  >
+      <td><img class='' src='https://github.com/danier-955/dapc_portafolio/blob/main/assets/img/portfolio/sistemaescolar/1.jpg'  >
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27382939f80f3052a55a92d4717' alt='Anyone Else But You' style='width:50%'>
+      <td><img class='artists' src='https://github.com/danier-955/dapc_portafolio/blob/main/assets/img/portfolio/Fotografia/2%20-%20copia.png' alt='Anyone Else But You' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2739f5cce8304c42d3a5463fd23' alt='Cold Heart - PNAU Remix' style='width:50%'>
       </td>
