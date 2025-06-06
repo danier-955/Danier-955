@@ -2,34 +2,10 @@
 # Danier Anderson Perdomo Carmona "DapcSoft"👋
 
 [![ProfileBanner](https://github.com/danier-955/dapc_portafolio/blob/main/assets/img/Portada.PNG)](https://Davekibh.github.io)
-# Tecnologias
+
 <div align="center">
 <br />
- <code>  <img  src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"> </code>
- <code>  <img  src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"> </code>
- <code>  <img  width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"> </code>
- <code>  <img  width="60" src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg"> </code>
- <code>  <img  src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"> </code>
-<br />
-
- <code>  <img width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"> </code>
-<code>  <img  src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"> </code>
- <code>  <img  src=""> </code>
- <code>  <img  width="60" src=""> </code>
- <code>  <img  src="" alt="codeigniter" width="60" height="60"> </code>
- 
-<br />
- <code>  <img  width="60" src=""> </code>
- <code>  <img   width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"> </code>
- <code>  <img  src=""> </code>
-  <code> <img  src="https://e7.pngegg.com/pngimages/764/304/png-clipart-laravel-black-logo-tech-companies-thumbnail.png" width="60" height="60"> </code>
-</div>
-
-
-</div>
-<div align="center">
-<br />
-<h1 align="center">TECHNOLOGY</h1>
+<h1 align="center">Tecnologias</h1>
 
 <p align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="height: 4rem"/>
 <img src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg" style="height:4rem; background-color:white"/>
